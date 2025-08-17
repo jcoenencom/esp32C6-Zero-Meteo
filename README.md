@@ -20,3 +20,7 @@ An additional rain gauge also from [makerworld](https://makerworld.com/en/models
 Connexions
 
 ![Circuit](/images/Circuit.png)
+
+In order for zigbee2mqtt to recognize the endpoints, the on4kch_ws.mjs has to be copied into 
+/opt/zigbee2mqtt/data/external_converters/on4kch_ws.mjs
+And zigbee2mqtt restarted
