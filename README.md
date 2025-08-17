@@ -19,4 +19,4 @@ An additional rain gauge also from [makerworld](https://makerworld.com/en/models
 
 Connexions
 
-![Circuit](/images/Circuit.jpeg)
+![Circuit](/images/Circuit.png)
