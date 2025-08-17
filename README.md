@@ -7,6 +7,10 @@ Unfortunately the D1 was not very stable (most likely a mistake or more in the c
 
 I moved it to a C6 in order to experiment with the zigbee stack from expressif (in the arudino IDE).
 
+The 3D design comes from [makeworl](https://makerworld.com/en/models/111567-weather-station-anemometer?from=search#profileId-119379)
+
+An additional rain gauge also from [makerworld](https://makerworld.com/en/models/139091-rain-gauge-zigbee-pluviometro-zigbee#profileId-151529) printed
+
 ![image1](/images/station_1.jpeg)
 
 ![image2](/images/station_2.jpeg)
