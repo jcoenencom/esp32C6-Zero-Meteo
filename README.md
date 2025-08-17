@@ -7,3 +7,8 @@ Unfortunately the D1 was not very stable (most likely a mistake or more in the c
 
 I moved it to a C6 in order to experiment with the zigbee stack from expressif (in the arudino IDE).
 
+![image1](/images/station_1.jpeg)
+
+![image2](/images/station_2.jpeg)
+
+![image3](/images/station_3.jpeg)
