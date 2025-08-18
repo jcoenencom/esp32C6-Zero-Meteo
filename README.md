@@ -36,6 +36,11 @@ In order for zigbee2mqtt to recognize the endpoints, the on4kch_ws.mjs has to be
 /opt/zigbee2mqtt/data/external_converters/on4kch_ws.mjs
 And zigbee2mqtt restarted
 
+
+Overview of the system
+
+![Overview](/images/overveiw.png)
+
 On [this](https://www.jcoenen.com/Meteo/esp32C6Zero.php) page you will find the real time readings from the station installed on my balcony.
 
 The php page is done from a mix of css, javascript and php.
