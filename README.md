@@ -36,4 +36,12 @@ In order for zigbee2mqtt to recognize the endpoints, the on4kch_ws.mjs has to be
 /opt/zigbee2mqtt/data/external_converters/on4kch_ws.mjs
 And zigbee2mqtt restarted
 
-On [this](https://www.jcoenen.com/Meteo/esp32C6Zero.php) page you will find the real time redings from the station installed on my balcony
+On [this](https://www.jcoenen.com/Meteo/esp32C6Zero.php) page you will find the real time readings from the station installed on my balcony.
+
+The php page is done from a mix of css, javascript and php.
+
+It connects to my externally reachable mosquitto mqtt broker that bridges with my internal broker to get a selected subset of messages from an instance of zigbee2mqtt and sbscribe to the esp32 mqtt messages.
+
+The esp32 itself connects the zigbee network and regularily sends messages to the sonoff concentrator attached to Z2M.
+
+Values received are displayed in the page as they come in.
