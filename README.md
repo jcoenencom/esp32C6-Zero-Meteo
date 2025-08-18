@@ -17,6 +17,17 @@ An additional rain gauge also from [makerworld](https://makerworld.com/en/models
 
 ![image3](/images/station_3.jpeg)
 
+Wind vane:
+
+![image4](/images/windvane1.jpeg)
+
+![image5](/images/windvane2.jpeg)
+
+![image6](/images/windvane3.jpeg)
+
+![image7](/images/windvane4.jpeg)
+
+
 Connexions
 
 ![Circuit](/images/Circuit.png)
