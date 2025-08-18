@@ -35,3 +35,5 @@ Connexions
 In order for zigbee2mqtt to recognize the endpoints, the on4kch_ws.mjs has to be copied into 
 /opt/zigbee2mqtt/data/external_converters/on4kch_ws.mjs
 And zigbee2mqtt restarted
+
+On [this](https://www.jcoenen.com/Meteo/esp32C6Zero.php) page you will find the real time redings from the station installed on my balcony
