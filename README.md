@@ -39,7 +39,7 @@ And zigbee2mqtt restarted
 
 Overview of the system
 
-![Overview](/images/overveiw.png)
+![Overview](/images/overview.png)
 
 On [this](https://www.jcoenen.com/Meteo/esp32C6Zero.php) page you will find the real time readings from the station installed on my balcony.
 
