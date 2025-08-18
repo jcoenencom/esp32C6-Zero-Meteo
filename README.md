@@ -40,7 +40,7 @@ On [this](https://www.jcoenen.com/Meteo/esp32C6Zero.php) page you will find the 
 
 The php page is done from a mix of css, javascript and php.
 
-It connects to my externally reachable mosquitto mqtt broker that bridges with my internal broker to get a selected subset of messages from an instance of zigbee2mqtt and sbscribe to the esp32 mqtt messages.
+It connects to my externally reachable mosquitto mqtt broker that bridges with my internal broker to get a selected subset of messages from an instance of zigbee2mqtt and subscribe to the esp32 mqtt messages.
 
 The esp32 itself connects the zigbee network and regularily sends messages to the sonoff concentrator attached to Z2M.
 
