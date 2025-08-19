@@ -17,7 +17,7 @@ An additional rain gauge also from [makerworld](https://makerworld.com/en/models
 
 ![image3](/images/station_3.jpeg)
 
-Wind vane:
+Anemometer:
 
 ![image4](/images/windvane1.jpeg)
 
@@ -26,6 +26,12 @@ Wind vane:
 ![image6](/images/windvane3.jpeg)
 
 ![image7](/images/windvane4.jpeg)
+
+Wind Vane (being designed usign freecad).
+
+![Sensor Box](/images/SensorBox.jpeg)
+![Main Body](/images/MainBody.jpeg)
+
 
 
 Connexions
